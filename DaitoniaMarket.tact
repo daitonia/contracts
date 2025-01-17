@@ -1,9 +1,9 @@
 // HL2 Market Contract in Tact
 
 contract DaitoniaMarket {
-    // Define the structure for an AI agent
-    struct Agent {
-        public_key: int;
+    
+struct :Agent { 
+    public_key: int;
         picture_url: string;
         title: string;
         description: string;
